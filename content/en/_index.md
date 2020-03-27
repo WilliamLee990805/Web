@@ -6,12 +6,12 @@ header:
     paddingY: 0
     align: center
     title:
-      - HUGO
+      - 欢迎来到书香小站
     subtitle:
-      - The world’s fastest framework for building websites
+      - 个人藏书
     titleColor: 
     titleShadow: true
-    titleFontSize: 44
+    titleFontSize: 24
     subtitleColor: 
     subtitleCursive: true
     subtitleFontSize: 18

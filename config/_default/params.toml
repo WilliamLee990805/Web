@@ -1,4 +1,4 @@
-logoText = "Zzo"
+logoText = "书香小站"
 logoType = "short" # long, short
 description = "The Zzo theme for Hugo example site."
 custom_css = []
@@ -40,14 +40,14 @@ talksGroupByDate = "2006"
 pubPaginate = 20
 
 # whoami
-myname = "zzossig"
-email = "zzossig@gmail.com"
-whoami = "Web Developer"
+myname = "aDmIn"
+email = "williamleeuk85@gmail.com"
+whoami = "aDmIn"
 bioImageUrl = ""
 useGravatar = false
-location = "Seoul, Korea"
-organization = "Hugo"
-link = "https://zzossig.io/ko"
+location = "SoMEWHeRe on EArth"
+organization = "MaRs"
+link = ""
 
 # sidebar
 enableBio = true
@@ -89,7 +89,7 @@ updateFrequency = ""
 fullContents = false
 
 # comment
-enableComment = true
+enableComment = false
 disqus_shortname = ""
 commento = false
 
